@@ -6,11 +6,13 @@
 - Certificate in Data Analytics | FULLSTACK ACADEMY (_Aug 2024 – Feb 2025_)
 - Bachelor of Science in Forensic Chemistry, Minor in Mathematics | YORK COLLEGE OF PENNSYLVANIA (_May 2023_)
 
+
 ## Experience
 **SPECIALIST I | Eurofins BioPharma Product Testing North America (_Jun 2023 - Present_)**
 - Built over 135 protocols/reports for various clients to conduct stability studies at Eurofins.
 - Detail-Oriented: Examined client protocols to extract relevant information to build reports for stability studies.
 - Documentation: Completed change requests on existing protocols/reports documenting every piece of the protocol/report that was updated.
+
 
 ## Technical Projects
 ### ANALYSIS OF CRIME IN MONTGOMERY COUNTY, MD FROM 2016 – 2025 (_May 2025_)
