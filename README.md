@@ -29,7 +29,7 @@
 - [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/views/CapstoneFinalDraft_17384676977900/Presentation?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-  ## Contact Me
-  - LinkedIn: (www.linkedin.com/in/christina-hoidra)
-  - Email: cehoidra@gmail.com
+## Contact Me
+- LinkedIn: (www.linkedin.com/in/christina-hoidra)
+- Email: cehoidra@gmail.com
 
