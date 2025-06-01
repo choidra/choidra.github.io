@@ -5,7 +5,7 @@
 
 ## Education
 - Certificate in Data Analytics, FULLSTACK ACADEMY (_Aug 2024 – Feb 2025_)
-- Bachelor of Science in Forensic Chemistry and Minor in Mathematics, YORK COLLEGE OF PENNSYLVANIA (_May 2023_)
+- Bachelor of Science in Forensic Chemistry & Minor in Mathematics, YORK COLLEGE OF PENNSYLVANIA (_May 2023_)
 
 
 ## Experience
@@ -30,6 +30,6 @@
 
 
 ## Contact Me
-- LinkedIn:[(www.linkedin.com/in/christina-hoidra)]
+- LinkedIn:[www.linkedin.com/in/christina-hoidra]
 - Email: cehoidra@gmail.com
 
