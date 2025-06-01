@@ -17,13 +17,13 @@
 
 ## Technical Projects
 ### ANALYSIS OF CRIME IN MONTGOMERY COUNTY, MD FROM 2016 – 2025 (_May 2025_)
-- Summary: Analyzed crime data for Montgomery County, MD to look at patterns in crime rates over time and types of crime.
+- **Summary:** Analyzed crime data for Montgomery County, MD to look at patterns in crime rates over time and types of crime.
 - Technologies used: Excel, SQL, Python, Tableau
 - [View code files here.](https://github.com/choidra/Montgomery_County_MD_Crime_Analysis)
 - [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/shared/PP32K7B2T?:display_count=n&:origin=viz_share_link)
 
 ### ANOMOLY DETECTION IN CREDIT CARD TRANSACTIONS (_Feb 2025_)
-- Summary: Analyzed credit card data to look for trends that indicate whether or not a transaction is considered fraudulent.
+- **Summary:** Analyzed credit card data to look for trends that indicate whether or not a transaction is considered fraudulent.
 - Technologies used: Excel, SQL, Python, Tableau
 - [View code files here.](https://github.com/choidra/fraud-detection-analysis)
 - [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/views/CapstoneFinalDraft_17384676977900/Presentation?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
