@@ -1,4 +1,4 @@
-# Data Analyst
+# **Data Analyst**
 [View on GitHub](https://github.com/choidra/choidra.github.io)
 
 #### Technical Skills: Microsoft Excel, Tableau Public & Desktop, SQL, and Python
