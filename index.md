@@ -18,6 +18,10 @@ layout: default
 - Detail-Oriented: Examined client protocols to extract relevant information to build reports for stability studies.
 - Documentation: Completed change requests on existing protocols/reports documenting every piece of the protocol/report that was updated.
 
+**IMPACT CHEMIST INTERN | Fiction Formulations & Services (_Jan 2022 – May 2022_)**
+- Organized data and automated mathematical processes via Microsoft Excel.
+- Created charts to interpret lab results and determine accuracy.
+
 
 ## Technical Projects
 ### ANALYSIS OF CRIME IN MONTGOMERY COUNTY, MD FROM 2016 – 2025 (_May 2025_)
