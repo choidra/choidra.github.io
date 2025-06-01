@@ -30,6 +30,6 @@
 
 
 ## Contact Me
-- LinkedIn:[www.linkedin.com/in/christina-hoidra]
+- LinkedIn: [https://www.linkedin.com/in/christina-hoidra/]
 - Email: cehoidra@gmail.com
 
