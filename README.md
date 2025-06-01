@@ -1,5 +1,5 @@
 # Data Analyst
-[View on GitHub](https://choidra.github.io/)
+[View on GitHub](https://github.com/choidra/choidra.github.io)
 
 #### Technical Skills: Microsoft Excel, Tableau Public & Desktop, SQL, and Python
 
@@ -30,6 +30,6 @@
 
 
 ## Contact Me
-- LinkedIn: (www.linkedin.com/in/christina-hoidra)
+- LinkedIn:[(www.linkedin.com/in/christina-hoidra)]
 - Email: cehoidra@gmail.com
 
