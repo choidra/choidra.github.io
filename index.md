@@ -34,8 +34,7 @@ layout: default
 - **Summary:** Analyzed credit card data to look for trends that indicate whether or not a transaction is considered fraudulent.
 - **Technologies used:** Excel, SQL, Python, Tableau
 - [View code files here.](https://github.com/choidra/fraud-detection-analysis)
-- [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/views/CapstoneFinalDraft_17384676977900/Presentation?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+- [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/shared/6Q7YDNRND?:display_count=n&:origin=viz_share_link)
 
 ## Contact Me
 - LinkedIn: [https://www.linkedin.com/in/christina-hoidra/](https://www.linkedin.com/in/christina-hoidra/)
