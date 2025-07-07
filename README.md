@@ -10,25 +10,34 @@
 
 ## Experience
 **SPECIALIST I | Eurofins BioPharma Product Testing North America (_Jun 2023 - Present_)**
-- Built over 135 protocols/reports for various clients to conduct stability studies at Eurofins.
-- Detail-Oriented: Examined client protocols to extract relevant information to build reports for stability studies.
-- Documentation: Completed change requests on existing protocols/reports documenting every piece of the protocol/report that was updated.
+- Authored over 72 protocols to meet client and regulatory requirements, demonstrating strong analytical thinking and attention to detail.
+- Translated over 65 client-written protocols into Laboratory Information Management System (LIMS).
+- Facilitated protocol development and approval, collaborating across departments including Peer Review, Data Review, QA, and more.
+- Maintained accurate and comprehensive records for protocols, reports, and 340+ change requests.
+- Interfaced directly with clients to clarify study needs and gather information.
+- Mentored new hires in building studies, including both new and client-written protocols, and provided oversight on their drafts.
 
 **IMPACT CHEMIST INTERN | Fiction Formulations & Services (_Jan 2022 – May 2022_)**
-- Organized data and automated mathematical processes via Microsoft Excel.
+- Organized and manipulated data via Microsoft Excel.
 - Created charts to interpret lab results and determine accuracy.
 
 
 ## Technical Projects
 ### ANALYSIS OF CRIME IN MONTGOMERY COUNTY, MD FROM 2016 – 2025 (_May 2025_)
-- **Summary:** Analyzed crime data for Montgomery County, MD to look at patterns in crime rates over time and types of crime.
-- **Technologies used:** Excel, SQL, Python, Tableau
+- **Summary:** Analyzed crime data for Montgomery County, MD, identifying patterns in crime rates over time and across different crime types.
+- **Technologies used:**
+  - **Python:** Conducted data cleaning, exploratory data analysis (EDA), and performed data quality and distribution checks.
+  - **SQL:** Developed and managed tables to store cleaned data and facilitate further trend analysis.
+  - **Tableau:** Visualized insights and created a formal presentation to effectively communicate findings.
 - [View code files here.](https://github.com/choidra/Montgomery_County_MD_Crime_Analysis)
 - [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/shared/PP32K7B2T?:display_count=n&:origin=viz_share_link)
 
 ### ANOMOLY DETECTION IN CREDIT CARD TRANSACTIONS (_Feb 2025_)
-- **Summary:** Analyzed credit card data to look for trends that indicate whether or not a transaction is considered fraudulent.
-- **Technologies used:** Excel, SQL, Python, Tableau
+- **Summary:** Analyzed credit card data to identify patterns indicative of fraudulent activity.
+- **Technologies used:**
+  - **Python:** Performed exploratory data analysis (EDA), data quality checks, and distribution assessments.
+  - **SQL:** Aggregated and analyzed data to uncover trends and anomalies.
+  - **Tableau:** Developed interactive dashboards and delivered formal presentations with key insights.
 - [View code files here.](https://github.com/choidra/fraud-detection-analysis)
 - [View formal presentation including dashboards and insights available on Tableau.](https://public.tableau.com/shared/6Q7YDNRND?:display_count=n&:origin=viz_share_link)
 
