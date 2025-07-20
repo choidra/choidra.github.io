@@ -23,6 +23,14 @@
 
 
 ## Technical Projects
+### CAR SALES ANALYSIS (_Jul 2025_)
+- **Summary:** Analyzed car sales data for various makes from 2014 to 2015.
+- **Technologies used:**
+  - **Excel:** Performed initial data cleaning and formatting.
+  - **Python:** Conducted further data cleaning, exploritory data analysis (EDA), data quality checks, data distribution checks, correlation analysis, and data         aggregation.
+  - **Power BI:** Developed dashboards to deliver final insights.
+- [View code files and dashboards here.](https://github.com/choidra/Car_Sales_Analysis)
+
 ### ANALYSIS OF CRIME IN MONTGOMERY COUNTY, MD FROM 2016 – 2025 (_May 2025_)
 - **Summary:** Analyzed crime data for Montgomery County, MD, identifying patterns in crime rates over time and across different crime types.
 - **Technologies used:**
