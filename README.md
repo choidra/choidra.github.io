@@ -1,7 +1,7 @@
 # **Data Analyst**
 [View on GitHub](https://github.com/choidra/choidra.github.io)
 
-#### Technical Skills: Microsoft Excel, Tableau Public & Desktop, SQL, and Python
+#### Technical Skills: Microsoft Excel, Tableau Public & Desktop, Power BI Desktop, SQL, and Python
 
 ## Education
 - Certificate in Data Analytics, FULLSTACK ACADEMY (_Aug 2024 – Feb 2025_)
