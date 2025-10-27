@@ -27,6 +27,16 @@ layout: default
 
 
 ## Technical Projects
+### RETAIL MARKETING CAMPAIGN ANALYSIS (_Oct 2025_)
+- **Summary:** Analyzed marketing campaign and sales data to determine efficacy of campaigns and factors influencing purchases.
+- **Technologies used:**
+  - **Excel:** Performed initial data cleaning and formatting. Generated statistical summaries and charts for initial EDA.
+  - **SQL:** Created tables and aggregated data to develop further insights.
+  - **Python:** Conducted further data cleaning, data quality checks, EDA, data distribution checks, and outlier analysis.
+  - **Tableau:** Developed dashboards to deliver final insights.
+- [View excel and code files here.](https://github.com/choidra/Retail_Marketing_Campaign_Analysis/tree/main)
+- [View dashboards and insights created in Tableau.](https://public.tableau.com/views/Capstone3-RetailAnalytics/Presentation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
+
 ### CAR SALES ANALYSIS (_Jul 2025_)
 - **Summary:** Analyzed car sales data for various makes from 2014 to 2015.
 - **Technologies used:**
