@@ -30,7 +30,7 @@
   - **SQL:** Created tables within SQL to aggregate data and look at percentages of readmitted patients.
   - **Python:** Generated numerous visualizations to determine data distribution, observe relationships between variables, and look for outliers within the data.
   - **Tableau:** Created more complex visualizations to ultimately develop a dashboard that delivers final insights.
-- [View excel and code files here.]
+- [View excel and code files here.](https://github.com/choidra/Healthcare_Analytics)
 - [View Tableau dashboard and insights here.](https://public.tableau.com/views/HealthcareAnalytics_17633255210370/HealthcareAnalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ### RETAIL MARKETING CAMPAIGN ANALYSIS (_Oct 2025_)
