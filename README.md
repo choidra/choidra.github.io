@@ -23,6 +23,13 @@
 
 
 ## Technical Projects
+### ASHEVILLE AIRBNB ANALYTICS (_Jan 2026_)
+- **Summary:** Analyzed Asheville, NC Airbnb data from 2011 to 2025 to examine pricing, demand, and activity among listings to determine if Asheville is a good market to expand Airbnb services.
+- **Technologies used:**
+  - **Excel:** Performed initial data quality checks, such as looking for missing values, duplicates, removing blank columns, and standardizing formatting.
+  - **SQL:** Created tables within SQL to perform data aggregation to look for trends among the data related to hosts, neighborhood activity, pricing, and review activity.
+- [View SQL analysis and overall findings/recommendations here.](https://github.com/choidra/Asheville_Airbnb_Analysis)      
+
 ### HEALTHCARE ANALYTICS (_Nov 2025_)
 - **Summary:** Analyzed healthcare data to determine trends in readmission rates among admitted patients.
 - **Technologies used:**
